@@ -1,0 +1,21 @@
+{
+  "name": "typescript-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "vamsi mutyala",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.4",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "run-sequence": "^1.1.5"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.0"
+  }
+}
